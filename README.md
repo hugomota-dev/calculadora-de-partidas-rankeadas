@@ -1,4 +1,4 @@
-# 2️⃣ Calculadora de partidas Rankeadas
+# 2️⃣ Calculadora de partidas Rankeadas - GFT Start #6 - Lógica de Programação
 
 **O Que deve ser utilizado**
 
